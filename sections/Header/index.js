@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-import { Colors } from '../../constants';
+import { Colors } from '../../lib/constants';
 
 export const Header = ({ title }) => {
   return (
